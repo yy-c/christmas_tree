@@ -1,5 +1,7 @@
 # 🎄 手势控制 3D 粒子圣诞树
 
+[引用自fuguther]
+
 一个使用 Three.js、MediaPipe Hands 和 GSAP 构建的交互式 3D 粒子圣诞树，通过手势控制实现丰富的交互效果。
 
 <div align="center">
